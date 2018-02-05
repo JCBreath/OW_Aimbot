@@ -1,0 +1,10 @@
+H:\ECS188\ECS188\ECS188\obj\Debug\RTSS.csprojResolveAssemblyReference.cache
+H:\ECS188\ECS188\ECS188\obj\Debug\ECS188.MainForm.resources
+H:\ECS188\ECS188\ECS188\obj\Debug\RTSS.csproj.GenerateResource.Cache
+H:\ECS188\ECS188\ECS188\obj\Debug\RTSS.csproj.CoreCompileInputs.cache
+H:\ECS188\ECS188\ECS188\bin\Debug\MSIAfterburner.exe.config
+H:\ECS188\ECS188\ECS188\bin\Debug\MSIAfterburner.exe
+H:\ECS188\ECS188\ECS188\bin\Debug\MSIAfterburner.pdb
+H:\ECS188\ECS188\ECS188\obj\Debug\MSIAfterburner.Properties.Resources.resources
+H:\ECS188\ECS188\ECS188\obj\Debug\MSIAfterburner.exe
+H:\ECS188\ECS188\ECS188\obj\Debug\MSIAfterburner.pdb
